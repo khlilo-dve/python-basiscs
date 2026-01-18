@@ -1,2 +1,1 @@
-# python-basiscs
-study record
+
